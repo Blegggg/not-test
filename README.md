@@ -21,6 +21,7 @@ Produce a detailed proposal for a digital solution that you would develop to mee
 2- the functional and non functional requirements of the solution
 
 3- decomposition of the problems that will need to be solved to implement the function and non functional requirements
+Decomposition of the problems is essential for the success of the digital solution, this is because it allows us to break it into more manageable chunks and then create a solution to resolve the problems (See more about this on appendix “B”) . For both logging in and creating an account, there is a potential risk and problem with data security and integrity, this means that if not handled correctly, the data can be compromised by several things, these being a breach of data and then it is modified, or just general data mismanagement. The consequences of not following this is being held accountable for failure to follow the general data protection regulation, which will result in legal troubles as well as reputational damage. Therefore, the log in system must have several areas to account for, these being a general entering of details.
 
 4- KPI's and user acceptance criteria for proposed solution
 
