@@ -101,10 +101,5 @@ visual/interface designs
 data requirements
 a selection of algorithm designs
 a test strategy
-Visual Interface Designs.pdf
-Data Requirements.pdf
-Algorithm Designs.pdf
-Test Strategy.pdf
- 
  
 
