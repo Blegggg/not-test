@@ -92,5 +92,19 @@ Assessment Focus:
 
 By focusing on these elements, you can create a comprehensive proposal that meets the expectations of the assessment criteria and effectively addresses the needs of any given scenario. 
 
+
+
+
+# Design Documentation - Part B
+Produce a set of design documents for the digital solution you are proposing.
+visual/interface designs
+data requirements
+a selection of algorithm designs
+a test strategy
+Visual Interface Designs.pdf
+Data Requirements.pdf
+Algorithm Designs.pdf
+Test Strategy.pdf
+ 
  
 
