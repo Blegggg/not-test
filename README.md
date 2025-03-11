@@ -2,11 +2,16 @@ Add descriptions ig
 1- Proposal Overview
 
 2- Key requirements of the brief
+functional and non functional
+decomposition for the functional req
+user acceptance 
+kpi
+legal ethical 
 
 3- Data handling
 
 4- Risk management
-
+risks - running out of time for example - contingency plan / time for example
 5- Wider issues
 
 6- Current practices in emerging technology
