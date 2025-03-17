@@ -38,3 +38,11 @@ User needs and client requirements
 2- User persona development: detailed profile of target users, get this from research to understand their behaviour, needs and motivation.
 
 3- Use case scenarios: Specific examples of how users will interact with the product or service to clarify functionality and benefits.
+
+
+
+
+
+interface designs need to give explanations as to why they were done
+e.g. why changed something like background colour.
+say if anything may need changing in future.
